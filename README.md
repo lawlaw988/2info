@@ -1,2 +1,1 @@
-# 2info
-french project
+
